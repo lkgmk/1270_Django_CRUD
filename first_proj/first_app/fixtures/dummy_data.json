@@ -1,0 +1,74 @@
+[
+  {
+    "model": "first_app.EmpDetails",
+    "pk": 1,
+    "fields": {
+      "emp_name": "TTT",
+      "emp_city": "Pune",
+      "emp_company": "Amazon"
+    }
+  },
+  {
+    "model": "first_app.EmpDetails",
+    "pk": 2,
+    "fields": {
+      "emp_name": "PPP",
+      "emp_city": "Pune",
+      "emp_company": "Amazon"
+    }
+  },
+  {
+    "model": "first_app.EmpDetails",
+    "pk": 3,
+    "fields": {
+      "emp_name": "YYY",
+      "emp_city": "Pune",
+      "emp_company": "Amazon"
+    }
+  },
+  {
+    "model": "first_app.EmpDetails",
+    "pk": 4,
+    "fields": {
+      "emp_name": "GGG",
+      "emp_city": "Pune",
+      "emp_company": "Amazon"
+    }
+  },
+  {
+    "model": "first_app.EmpDetails",
+    "pk": 5,
+    "fields": {
+      "emp_name": "Umar",
+      "emp_city": "Pune",
+      "emp_company": "Amazon"
+    }
+  },
+  {
+    "model": "first_app.EmpDetails",
+    "pk": 6,
+    "fields": {
+      "emp_name": "Pratik",
+      "emp_city": "Pune",
+      "emp_company": "Google"
+    }
+  },
+  {
+    "model": "first_app.EmpDetails",
+    "pk": 7,
+    "fields": {
+      "emp_name": "Ishar",
+      "emp_city": "Pune",
+      "emp_company": "LTI"
+    }
+  },
+  {
+    "model": "first_app.EmpDetails",
+    "pk": 8,
+    "fields": {
+      "emp_name": "Ronny",
+      "emp_city": "Pune",
+      "emp_company": "Amazon"
+    }
+  }
+]
